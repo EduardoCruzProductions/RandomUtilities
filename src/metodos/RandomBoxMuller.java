@@ -4,7 +4,7 @@ public class RandomBoxMuller {
 
     public static final double pi = 3.14159265359;
 
-    public static double[][] gerarMatriz(double[] u1, double[] u2) throws Exception {
+    public double[][] gerarMatriz(double[] u1, double[] u2) throws Exception {
 
         if (u1.length == u2.length) {
 

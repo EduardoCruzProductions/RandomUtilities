@@ -3,7 +3,7 @@ package metodos;
 
 public class InversaoAproximada {
     
-    public static double[] inverter(double[] entrada){
+    public double[] inverter(double[] entrada){
         
         //Problemas no algoritmo
         //os valores estao saindo negativos
